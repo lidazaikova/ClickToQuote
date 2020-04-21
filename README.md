@@ -1,7 +1,7 @@
 # SanskritDictionary
 Digital HTML version of Kossovich Russian-Sanskrit dictionary
 
-1. Added <script type="text/javascript" src="./scripts/copypaste.js"></script> into <head>
+1. Added <script type="text/javascript" src="./scripts/clicktoquote.js"></script> into <head>
 2. a)Added handler into paragraph elements of class="stk"
    Handler copypaste.js.copyShort - to copy short bibliograpy record
    
