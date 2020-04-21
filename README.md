@@ -1,5 +1,5 @@
 # Click-to-Quote with Variables
-Digital HTML version of Kossovich Russian-Sanskrit dictionary
+Click - to - Quote script for Digital HTML version of Kossovich Russian-Sanskrit dictionary
 
 1. Added <script type="text/javascript" src="./scripts/clicktoquote.js"></script> into <head>
 2. a)Added handler into paragraph elements of class="stk"
