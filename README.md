@@ -1,4 +1,4 @@
-# SanskritDictionary
+# Click-to-Quote with Variables
 Digital HTML version of Kossovich Russian-Sanskrit dictionary
 
 1. Added <script type="text/javascript" src="./scripts/clicktoquote.js"></script> into <head>
